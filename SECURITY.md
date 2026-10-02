@@ -3,7 +3,7 @@
 ## Reporting a vulnerability
 
 Do **not** open a public issue or PR for a vulnerability. Write to
-`TODO-security-contact@your-domain` with:
+**lautaro@caliper-systems.com** with:
 
 - the affected repo, URL or app,
 - what you found and how to reproduce it,
