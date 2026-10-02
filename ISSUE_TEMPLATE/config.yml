@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Work tracking (Jira)
+    url: https://calipersoftware.atlassian.net/
+    about: Features and planned work live in Jira, not in GitHub issues.
